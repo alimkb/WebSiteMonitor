@@ -1,0 +1,24 @@
+{
+    "websites": [
+        {
+            "name": "google",
+            "url": "http://google.com",
+            "keyword": "submit"
+        },
+        {
+            "name": "yahoo",
+            "url": "http://yahoo.com",
+            "keyword": "submit"
+        },
+        {
+            "name": "apple",
+            "url": "https://apple.com",
+            "keyword": "submis"
+        },
+        {
+            "name": "microsoft",
+            "url": "https://microsoft.com",
+            "keyword": "microsoft"
+        }
+    ]
+}
